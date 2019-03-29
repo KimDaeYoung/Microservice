@@ -1,7 +1,7 @@
 spring:
-  profiles: dev-test
+  profiles: dev
 
 msaconfig:
-  greeting: "welcome to dev-test server"
+  greeting: "welcome to dev server"
 
 
