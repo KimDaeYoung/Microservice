@@ -3,5 +3,3 @@ spring:
 
 msaconfig:
   greeting: "welcome to dev server"
-
-
